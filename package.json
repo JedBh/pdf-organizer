@@ -1,0 +1,24 @@
+{
+  "name": "pdf-organizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dateutil": "^0.1.0",
+    "dayjs": "^1.11.13",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.1",
+    "@types/pdf-parse": "^1.1.4",
+    "typescript": "^5.6.3"
+  }
+}
